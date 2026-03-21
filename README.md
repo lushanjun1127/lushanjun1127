@@ -27,7 +27,7 @@
 ## 💬 Connect With Me
 
 - 🐧 [Github](https://github.com/lushanjun1127)
-- 📧 Email: 联系 via Issues/PRs
+- 📧 Email: 联系 lushanjun@proton.me
 - 🎓 Santa Fe College CS Student
 
 ---
