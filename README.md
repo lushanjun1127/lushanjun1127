@@ -13,7 +13,7 @@
   <td align="center">
     <!-- 头像 -->
     <div style="position:relative; width:170px; height:170px;">
-      <img src="https://avatarfiles.alphacoders.com/766/76609.png" alt="动漫头像" 
+      <img src="[https://avatarfiles.alphacoders.com/766/76609.png](https://i.pinimg.com/1200x/e1/1e/11/e11e116366ac4201d1ffd4e58bb590f8.jpg)" alt="动漫头像" 
            style="width:170px; height:170px; border-radius:50%; border:6px solid #FF69B4; 
                   box-shadow:0 0 35px rgba(255,105,180,0.7);" />
       <span style="position:absolute; top:-15px; right:-15px; font-size:35px;">🌟</span>
