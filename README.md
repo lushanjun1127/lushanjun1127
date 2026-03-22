@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ✨ 打字机动画 -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23FF69B4&lines=🌸你好~我是山君;⚡全栈开发·CS学生;💜在代码世界种花;✨与你共创美好未来" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=%23FF69B4&lines=🌸你好~我是山君;⚡全栈开发·CS学生;💜在代码世界种花;✨与你共创美好未来" />
 
 <br>
 
@@ -14,8 +14,7 @@
     <!-- 头像 -->
     <div style="position:relative; width:170px; height:170px;">
       <img src="https://i.pinimg.com/1200x/e1/1e/11/e11e116366ac4201d1ffd4e58bb590f8.jpg" alt="动漫头像" 
-           style="width:170px; height:170px; border-radius:50%; border:6px solid #FF69B4; 
-                  box-shadow:0 0 35px rgba(255,105,180,0.7);" />
+           style="width:170px; height:170px; border-radius:50%; border:6px solid #FF69B4; box-shadow:0 0 35px rgba(255,105,180,0.7);" />
       <span style="position:absolute; top:-15px; right:-15px; font-size:35px;">🌟</span>
       <span style="position:absolute; bottom:-10px; left:-10px; font-size:30px;">🌸</span>
     </div>
@@ -55,8 +54,7 @@
 
 ### 🎵 心情音乐
 
-♫ "Keep Creating" — 🎧 ★★★★★ · 正在创作中...
-
+> ♫ "Keep Creating" — 🎧 ★★★★★ · 正在创作中...
 
 </div>
 
