@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- ✨ 顶部动态欢迎 -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23FF69B4&lines=🌸%20你好~我是山君;⚡%20全栈开发·CS学生;💜%20在代码世界种花;✨%20与你共创美好未来" />
+<!-- ✨ 打字机动画 -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23FF69B4&lines=🌸你好~我是山君;⚡全栈开发·CS学生;💜在代码世界种花;✨与你共创美好未来" />
 
 <br>
 
@@ -15,7 +15,7 @@
     <div style="position:relative; width:170px; height:170px;">
       <img src="https://avatarfiles.alphacoders.com/766/76609.png" alt="动漫头像" 
            style="width:170px; height:170px; border-radius:50%; border:6px solid #FF69B4; 
-                  box-shadow:0 0 35px rgba(255,105,180,0.7); object-fit:cover;" />
+                  box-shadow:0 0 35px rgba(255,105,180,0.7);" />
       <span style="position:absolute; top:-15px; right:-15px; font-size:35px;">🌟</span>
       <span style="position:absolute; bottom:-10px; left:-10px; font-size:30px;">🌸</span>
     </div>
@@ -43,75 +43,57 @@
 
 ---
 
-## 🎀 今日状态 / Current Status
+## 🎀 今日状态
 
 <div align="center" style="margin:35px 0;">
 
-<details open style="background:linear-gradient(135deg,#FFF0F5,#FFE4E1); padding:25px; border-radius:20px; border:3px solid #FF69B4; box-shadow:0 5px 25px rgba(255,105,180,0.3);">
-<summary><strong>👉 点击查看我的今日状态</strong></summary>
+![编码中](https://img.shields.io/badge/认真编码-ff69b4?style=for-the-badge&logo=visual-studio-code&labelColor=pink)
+![学习中](https://img.shields.io/badge/持续学习中-purple?style=for-the-badge&logo=graduation-cap&labelColor=violet)
+![可联系](https://img.shields.io/badge/随时交流-blue?style=for-the-badge&logo=discord&labelColor=lightblue)
 
-<div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap; margin-top:20px;">
+<br><br>
 
-![🔥当前状态](https://img.shields.io/badge/认真编码-ff69b4?style=for-the-badge&logo=visual-studio-code&labelColor=pink)
-![📚学习进度](https://img.shields.io/badge/持续学习中-purple?style=for-the-badge&logo=graduation-cap&labelColor=violet)
-![💬在线状态](https://img.shields.io/badge/随时交流-blue?style=for-the-badge&logo=discord&labelColor=lightblue)
-![⭐️GitHub等级](https://custom-icon-badges.demolab.com/github/contributions/lushanjun1127?label=Lv.Gold&color=gold&style=for-the-badge)
+### 🎵 心情音乐
 
-</div>
+♫ "Keep Creating" — 🎧 ★★★★★ · 正在创作中...
 
-<br>
-
-### 🎵 心情音乐 / Music Mood
-
-♫ "Your Story" — 🎧 ★★★★★ · 正在创作中...
-
-
-
-</details>
 
 </div>
 
 ---
 
-## ⚡️ 技能树 / Tech Stack
+## ⚡️ 技能树
 
 <div align="center" style="margin:50px 0;">
 
-### 🍃 编程语言 / Programming Languages
+### 🍃 编程语言
 
-<div style="display:flex; justify-content:center; gap:15px; flex-wrap:wrap;">
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)]()
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)]()
-</div>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white&link=https://www.python.org/)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&link=https://developer.mozilla.org/)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&link=https://www.typescriptlang.org/)
 
-<br>
+<br><br>
 
-### 🎨 前端技术 / Frontend
+### 🎨 前端框架
 
-<div style="display:flex; justify-content:center; gap:15px; flex-wrap:wrap;">
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)]()
-[![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)]()
-[![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)]()
-</div>
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black&link=https://reactjs.org/)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white&link=https://nextjs.org/)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white&link=https://tailwindcss.com/)
 
-<br>
+<br><br>
 
-### 🛠️ 后端与工具 / Backend & Tools
+### 🛠️ 后端工具
 
-<div style="display:flex; justify-content:center; gap:15px; flex-wrap:wrap;">
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)]()
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)]()
-[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)]()
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)]()
-[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)]()
-</div>
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white&link=https://nodejs.org/)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white&link=https://vercel.com/)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white&link=https://www.cloudflare.com/)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white&link=https://git-scm.com/)
 
 </div>
 
 ---
 
-## 🔮 精选项目 / Featured Projects
+## 🔮 精选项目
 
 <div align="center" style="margin:50px 0;">
 
@@ -119,21 +101,17 @@
 <tr>
   <td align="center" width="50%" style="padding:10px;">
     <a href="https://github.com/lushanjun1127/planet">
-      <div style="background:linear-gradient(135deg,#FFF0F5,#FFE4E1); padding:25px; border-radius:25px; border:3px solid #FF69B4; transition:transform 0.3s, box-shadow 0.3s; box-shadow:0 5px 25px rgba(255,105,180,0.3);" onmouseover="this.style.transform='translateY(-8px)' this.style.boxShadow='0 10px 35px rgba(255,105,180,0.5)'" onmouseout="this.style.transform='translateY(0)' this.style.boxShadow='0 5px 25px rgba(255,105,180,0.3)'">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lushanjun1127&repo=planet&show_owner=true&theme=rose&hide_border=true&border_radius=15" width="300" />
-        <br>
-        <span style="display:block; margin-top:15px; font-weight:bold; color:#8B008B; font-size:1.2em;">🔥 planet - Web应用项目</span>
-      </div>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lushanjun1127&repo=planet&show_owner=true&theme=rose&hide_border=true&border_radius=15" width="300" alt="planet" />
     </a>
+    <br><br>
+    <span style="font-weight:bold; color:#8B008B;">🔥 planet - Web应用项目</span>
   </td>
   <td align="center" width="50%" style="padding:10px;">
     <a href="https://github.com/lushanjun1127/csvtojson">
-      <div style="background:linear-gradient(135deg,#FFF0F5,#FFE4E1); padding:25px; border-radius:25px; border:3px solid #FF69B4; transition:transform 0.3s, box-shadow 0.3s; box-shadow:0 5px 25px rgba(255,105,180,0.3);" onmouseover="this.style.transform='translateY(-8px)' this.style.boxShadow='0 10px 35px rgba(255,105,180,0.5)'" onmouseout="this.style.transform='translateY(0)' this.style.boxShadow='0 5px 25px rgba(255,105,180,0.3)'">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lushanjun1127&repo=csvtojson&show_owner=true&theme=rose&hide_border=true&border_radius=15" width="300" />
-        <br>
-        <span style="display:block; margin-top:15px; font-weight:bold; color:#8B008B; font-size:1.2em;">✨ csvtojson - 实用小工具</span>
-      </div>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lushanjun1127&repo=csvtojson&show_owner=true&theme=rose&hide_border=true&border_radius=15" width="300" alt="csvtojson" />
     </a>
+    <br><br>
+    <span style="font-weight:bold; color:#8B008B;">✨ csvtojson - 实用小工具</span>
   </td>
 </tr>
 </table>
@@ -142,19 +120,19 @@
 
 ---
 
-## 📊 GitHub 数据面板 / Stats Dashboard
+## 📊 GitHub 数据面板
 
 <div align="center" style="margin:50px 0;">
 
 <!-- 总体统计 -->
-<div style="background:linear-gradient(135deg,#FFF0F5,#FFE4E1); padding:30px; border-radius:25px; border:4px solid #FF69B4; box-shadow:0 0 40px rgba(255,105,180,0.4); max-width:500px;">
+<div style="background:linear-gradient(135deg,#FFF0F5,#FFE4E1); padding:30px; border-radius:25px; border:4px solid #FF69B4; box-shadow:0 0 40px rgba(255,105,180,0.4); max-width:500px; margin:0 auto;">
 ![总体统计](https://github-readme-stats.vercel.app/api?username=lushanjun1127&show_icons=true&theme=rose&hide_border=true&border_radius=15&count_private=true)
 </div>
 
 <br>
 
 <!-- 语言分布 -->
-<div style="background:linear-gradient(135deg,#FFF0F5,#FFE4E1); padding:30px; border-radius:25px; border:4px solid #FF69B4; box-shadow:0 0 40px rgba(255,105,180,0.4); max-width:500px; margin-top:25px;">
+<div style="background:linear-gradient(135deg,#FFF0F5,#FFE4E1); padding:30px; border-radius:25px; border:4px solid #FF69B4; box-shadow:0 0 40px rgba(255,105,180,0.4); max-width:500px; margin:25px auto;">
 ![语言分布](https://github-readme-stats.vercel.app/api/top-langs/?username=lushanjun1127&layout=compact&theme=rose&hide_border=true&border_radius=15)
 </div>
 
@@ -162,11 +140,11 @@
 
 ---
 
-## 🗓️ 贡献日历 / Contribution Calendar
+## 🗓️ 贡献日历
 
 <div align="center" style="margin:50px 0;">
 
-<details>
+<details open>
 <summary><strong>👉 点击查看完整活动记录 ↗️</strong></summary>
 
 <div style="background:linear-gradient(135deg,#FFF0F5,#FFE4E1); padding:35px; border-radius:25px; border:4px solid #FF69B4; margin-top:25px; box-shadow:0 0 45px rgba(255,105,180,0.4);">
@@ -178,12 +156,18 @@
 
 <div style="background:linear-gradient(135deg,#FFF0F5,#FFE4E1); padding:25px; border-radius:20px; border:3px solid #FF69B4; margin-top:15px;">
 
-| 指标 | 数值 |
-|------|------|
-| ⭐ **总Star数** | ![Stars](https://custom-icon-badges.demolab.com/github/stars/lushanjun1127?label=Star数&color=ff69b4&style=for-the-badge&logo=star) |
-| 🔧 **总Fork数** | ![Forks](https://custom-icon-badges.demolab.com/github/forks/lushanjun1127?label=Fork数&color=ff69b4&style=for-the-badge&logo=fork) |
-| 📦 **仓库总数** | ![Repositories](https://custom-icon-badges.demolab.com/github/repo-count/lushanjun1127?label=仓库数&color=ff69b4&style=for-the-badge&logo=repositories) |
-| 📈 **累计提交** | ![Commits](https://gh-contributions.vercel.app/api/github/lushanjun1127) |
+<table style="text-align:center; width:100%;">
+<tr>
+  <td style="padding:10px;"><strong>⭐ 总Star数</strong></td>
+  <td style="padding:10px;"><strong>🔧 总Fork数</strong></td>
+  <td style="padding:10px;"><strong>📦 仓库总数</strong></td>
+</tr>
+<tr>
+  <td style="padding:10px;"><img src="https://custom-icon-badges.demolab.com/github/stars/lushanjun1127?label=Stars&color=ff69b4&style=flat-square&logo=star" /></td>
+  <td style="padding:10px;"><img src="https://custom-icon-badges.demolab.com/github/forks/lushanjun1127?label=Forks&color=ff69b4&style=flat-square&logo=fork" /></td>
+  <td style="padding:10px;"><img src="https://custom-icon-badges.demolab.com/github/repo-count/lushanjun1127?label=Repo&color=ff69b4&style=flat-square&logo=repositories" /></td>
+</tr>
+</table>
 
 </div>
 </details>
@@ -194,16 +178,24 @@
 
 ---
 
-## 💌 连接我 / Connect With Me
+## 💌 连接我
 
 <div align="center" style="margin:50px 0;">
 
 <div style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center;">
 
-[![GitHub](https://img.shields.io/badge/GitHub-关注-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lushanjun1127)
-[![Email](https://img.shields.io/badge/邮箱-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![个人主页](https://img.shields.io/badge/主页-访问-orange?style=for-the-badge&logo=chrome&logoColor=white)](https://lushanjun1127.github.io/)
-[![Issues](https://img.shields.io/badge/Issue-提问-purple?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lushanjun1127/issues)
+<a href="https://github.com/lushanjun1127">
+<img src="https://img.shields.io/badge/GitHub-关注-blue?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="mailto:your.email@example.com">
+<img src="https://img.shields.io/badge/邮箱-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://lushanjun1127.github.io/">
+<img src="https://img.shields.io/badge/主页-访问-orange?style=for-the-badge&logo=chrome&logoColor=white" alt="个人主页" />
+</a>
+<a href="https://github.com/lushanjun1127/issues">
+<img src="https://img.shields.io/badge/Issue-提问-purple?style=for-the-badge&logo=github&logoColor=white" alt="Issues" />
+</a>
 
 </div>
 
@@ -211,11 +203,11 @@
 
 ---
 
-## 👻 访客计数 / Visitor Count
+## 👻 访客计数
 
 <div align="center" style="margin:50px 0;">
 
-<img src="https://profile-counter.glitch.me/lushanjun1127/count.svg" alt="访客计数" style="border-radius:30px; border:5px solid #FF69B4; box-shadow:0 0 40px rgba(255,105,180,0.5);" />
+<img src="https://profile-counter.glitch.me/lushanjun1127/count.svg" alt="Visitor Count" style="border-radius:30px; border:5px solid #FF69B4; box-shadow:0 0 40px rgba(255,105,180,0.5);" />
 
 <br>
 
@@ -227,7 +219,7 @@
 
 ---
 
-## 🌼 寄语 / Quote
+## 🌼 寄语
 
 <div align="center" style="margin:50px 0;">
 
@@ -250,15 +242,11 @@
 <br>
 
 <!-- 底部装饰 -->
-<span style="font-size:28px; animation:float 2s ease-in-out infinite;">🌸💜✨</span>
-<span style="font-size:28px; animation:float 2s ease-in-out infinite 0.5s;">🌸💜✨</span>
-<span style="font-size:28px; animation:float 2s ease-in-out infinite 1s;">🌸💜✨</span>
+<span style="font-size:28px;">🌸</span>
+<span style="font-size:28px;">💜</span>
+<span style="font-size:28px;">✨</span>
+<span style="font-size:28px;">🌸</span>
+<span style="font-size:28px;">💜</span>
+<span style="font-size:28px;">✨</span>
 
 </div>
-
-<style>
-@keyframes float {
-  0%, 100% { transform: translateY(0px); }
-  50% { transform: translateY(-10px); }
-}
-</style>
