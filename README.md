@@ -1,22 +1,22 @@
-# ✨ 陆山君 | Full-Stack Developer
+# ✨ 陆山君 | 全栈开发者
 
 <div align="center">
 
-![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&color=%238B7D6B&lines=🌸%20Hello%20World!;💻%20Full-Stack%20Developer;⚡%20CS%20Student)
+![Typing](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=3000&color=%23ffb6c1&lines=🌸%20你好%20世界!;💻%20全栈%20开发者;⚡%20计算机%20学生)
 
 ---
 
-**📍 Florida, USA** • **🎓 Santa Fe College** • **💼 Full-stack Developer**
+**📍 美国佛罗里达** • **🎓 圣达菲学院** • **💼 全栈开发工程师**
 
-[![GitHub](https://img.shields.io/badge/GitHub-lushanjun1127-181717?style=for-the-badge&logo=github)](https://github.com/lushanjun1127)
+[![GitHub](https://img.shields.io/badge/GitHub-lushanjun1127-ff69b4?style=for-the-badge&logo=github)](https://github.com/lushanjun1127)
 
 </div>
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ 技术栈
 
-### 🎨 Frontend
+### 🎨 前端开发
 
 `React` `Next.js` `TypeScript` `Tailwind CSS`
 
@@ -25,7 +25,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=flat-square&logo=typescript)
 ![Tailwind](https://img.shields.io/badge/Tailwind-%2338B2AC?style=flat-square&logo=tailwindcss)
 
-### 🛠️ Backend
+### 🛠️ 后端开发
 
 `Node.js` `Express` `MongoDB` `PostgreSQL`
 
@@ -34,80 +34,76 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?style=flat-square&logo=postgresql)
 
-### 🔧 Tools
+### 🔧 工具链
 
-`Git` `Docker` `Vercel` `GitHub Actions` `VS Code` `Postman` `Figma`
+`Git` `Docker` `Vercel` `VS Code` `Figma`
 
 ---
 
-## 🏰 Featured Projects
+## 🏰 精选项目
 
-### 1. 🏰 Sky Castle (Planet)
+### 1. 🌸 天空之城 (Planet)
 
-> React + Node.js + MongoDB Web Application
+> React + Node.js + MongoDB Web 应用
 
-[![View Code](https://img.shields.io/badge/GitHub-View-blue?style=for-the-badge&logo=github)](https://github.com/lushanjun1127/planet)
-[![Live Demo](https://img.shields.io/badge/Demo-Live-green?style=for-the-badge)](#)
+[![查看代码](https://img.shields.io/badge/GitHub-查看-blue?style=for-the-badge&logo=github)](https://github.com/lushanjun1127/planet)
+[![在线演示](https://img.shields.io/badge/演示-在线-green?style=for-the-badge)](#)
 
-### 2. 🐉 Totoro's Tool (CSV to JSON)
+### 2. 🐉 龙猫工具箱 (CSV 转 JSON)
 
-> JavaScript Data Conversion Utility
+> JavaScript 数据转换工具
 
-[![View Code](https://img.shields.io/badge/GitHub-View-blue?style=for-the-badge&logo=github)](https://github.com/lushanjun1127/csvtojson)
-[![Live Demo](https://img.shields.io/badge/Demo-Live-green?style=for-the-badge)](#)
+[![查看代码](https://img.shields.io/badge/GitHub-查看-blue?style=for-the-badge&logo=github)](https://github.com/lushanjun1127/csvtojson)
+[![在线演示](https://img.shields.io/badge/演示-在线-green?style=for-the-badge)](#)
 
 <br>
 
-👉 [View All Repositories →](https://github.com/lushanjun1127?tab=repositories)
+👉 [查看所有仓库 →](https://github.com/lushanjun1127?tab=repositories)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub 数据
 
-![Profile Views](https://komarev.com/ghpvc/?username=lushanjun1127&label=Profile+Views&color=8B7D6B&style=flat-square)
+![个人资料浏览](https://komarev.com/ghpvc/?username=lushanjun1127&label=浏览量&color=ffb6c1&style=flat-square)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=lushanjun1127&theme=dark&ring=8B7D6B&fire=8B7D6B&border_radius=5)
+![连续提交](https://github-readme-streak-stats.herokuapp.com/?user=lushanjun1127&theme=dark&ring=ffb6c1&fire=ffb6c1&border_radius=5)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lushanjun1127&layout=compact&theme=dracula&hide_border=true)
+![编程语言](https://github-readme-stats.vercel.app/api/top-langs/?username=lushanjun1127&layout=compact&theme=pink&hide_border=true)
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=lushanjun1127&show_icons=true&theme=dracula&hide_border=true)
-
-📈 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lushanjun1127&theme=monokai&area=true&hide_border=true)](https://github.com/lushanjun1127)
+![综合统计](https://github-readme-stats.vercel.app/api?username=lushanjun1127&show_icons=true&theme=pink&hide_border=true)
 
 ---
 
-## 🦜 Learning Roadmap
+## 🦜 学习路线
 
 <details>
-<summary><strong>👆 Click to expand learning goals ↗</strong></summary>
+<summary><strong>👆 点击展开学习目标 ↗</strong></summary>
 
 ```yaml
-Q1 2025: 🎯 Learn Rust & GraphQL
-Q2 2025: 🌱 Open Source Contributions  
-Q3 2025: 📝 Write Technical Articles
-Q4 2025: 🚀 Build Portfolio Website
+2025 Q1: 🎯 学习 Rust & GraphQL
+2025 Q2: 🌱 开源项目贡献  
+2025 Q3: 📝 撰写技术文章
+2025 Q4: 🚀 搭建个人作品集网站
+
 </details>
 
-💻 Development Environment
-<details>
-<summary><strong>🔧 Click to view setup details ↗</strong></summary>
+💻 开发环境配置
 
-VS Code — Latest (Primary Editor)
-Node.js — v20.x (Runtime Environment)
-Git — v2.4x (Version Control)
-Docker — Latest (Containerization)
-</details>
+编辑器：    VS Code — 最新版
+运行环境：  Node.js — v20.x
+版本控制：  Git — v2.4x
+容器化：    Docker — 最新版
 
-📮 Connect Me
+📮 联系方式
 📧 Email: your.email@example.com
-💼 LinkedIn: Connect on LinkedIn
-🌐 Portfolio: Visit Site
+💼 LinkedIn: 欢迎联系
+🌐 个人网站: 访问站点
 🐙 GitHub: @lushanjun1127
 <div align="center">
 
-✨ "Always With Me · Keep Creating Forever"
-—— 吉卜力工作室 《千与千寻》
-Last Updated: 2025
-🌸 🕊️ 🌿 ☁️ 💻
+✨ "总有一天我会再见到你 · 创造永不落幕"
+—— 《千与千寻》
+最后更新：2025
+🌸 🕊️ 🌿 ☁️ 💖
 </div>
 ```
