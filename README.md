@@ -1,16 +1,14 @@
+# 👋 Hi, I'm Shanjun Lu (陆山君)
+
 <div align="center">
+  
+### 🎓 Santa Fe College CS Student | Full-stack Developer
 
-### 👋 你好，我是 陆山君 | Shanjun Lu
+> **"姻缘庙前不屑一顾，财神殿前长跪不起"**
 
-<a href="https://github.com/lushanjun1127"><img src="https://avatars.githubusercontent.com/lushanjun1127?size=150" width="150"/></a>
-
----
-
-**Full-stack Developer** · **Santa Fe College CS Student**
-
-📍 Florida, USA  |  🔗 [Website](https://lushanjun.vercel.app/)  |  📧 shanjun.lu@go.sfcollege.edu
-
----
+[![GitHub Profile](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/lushanjun1127)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0088cc?style=for-the-badge&logo=vercel)](https://lushanjun.vercel.app/)
+[![about.me](https://img.shields.io/badge/-aboutme-b3128f?style=for-the-badge&logo=about.me)](https://about.me/lushanjun)
 
 </div>
 
@@ -18,62 +16,71 @@
 
 ## 🚀 技术栈
 
-<div align="left">
+| Frontend | Backend | Database | DevOps | Tools |
+|----------|---------|----------|--------|-------|
+| ⚛️ React / Next.js | 🟢 Node.js | 🍃 MongoDB | 🌩️ Vercel | 💻 VS Code |
+| 🧵 TypeScript | 🔷 Express | 🗄️ PostgreSQL | 🔁 Cloudflare Workers | 🎨 Figma |
+| ✨ Tailwind CSS | 🐍 Python | | 🐳 Docker | 🔖 Git |
 
-| 💻 前端 | 🔧 后端 | 🗄️ 数据库 | 🛠️ 工具 |
-|---------|---------|----------|--------|
-| React/Next.js | Node.js/Express | MongoDB | Git |
-| TypeScript/Tailwind | Python | PostgreSQL | Docker |
-| JavaScript/Figma | Cloudflare Workers | — | VS Code |
+---
+
+## 🏰 精选项目
+
+<details>
+<summary><strong>👉 点击查看项目详情</strong></summary>
+
+| 项目名称 | 类型 | 简介 | 链接 |
+|----------|------|------|------|
+| 🏠 **Personal Website** | 静态网站 | 简约个人主页与导航页 | [View](https://github.com/lushanjun1127.github.io) |
+| 📦 **csvtojson** | 工具库 | CSV 转 JSON 数据转换工具 | [View](https://github.com/lushanjun1127/csvtojson) |
+| 🔗 **nav** | Web应用 | Cloudflare Workers 书签收藏分享平台 | [View](https://github.com/lushanjun1127/nav) |
+| 🪐 **planet** | JavaScript | 通用 JavaScript 项目实践 | [View](https://github.com/lushanjun1127/planet) |
+
+</details>
+
+---
+
+## 📊 统计数据
+┌───────────────────────────────┐
+│  年度贡献 (过去一年)            │
+│                               │
+│        ████████████          │
+│        50 次 Commit           │
+│                               │
+│  代码构成                     │
+│  ████ 98% Commit               │
+│  ██  2% Pull Requests         │
+│                               │
+│  🌱 活跃范围                  │
+│  🏷️ 个人仓库 (lushanjun1127/*) │
+└───────────────────────────────┘
+
+---
+
+## 📮 联系方式
+
+<div align="center">
+
+| 渠道 | 链接 |
+|------|------|
+| 📧 Email | [`shanjun.lu@go.sfcollege.edu`](mailto:shanjun.lu@go.sfcollege.edu) |
+| 💻 GitHub | [github.com/lushanjun1127](https://github.com/lushanjun1127) |
+| 🌐 个人站 | [lushanjun.vercel.app](https://lushanjun.vercel.app/) |
+| 🪞 镜像站 | [lushanjun.ct.ws](https://lushanjun.ct.ws/) |
 
 </div>
 
 ---
 
-## 🏆 精选项目
+## 🎯 座右铭
 
-<div align="center">
-
-<table>
-  <tr>
-    <td width="40%"><a href="https://github.com/lushanjun1127/github.io"><b>个人主页</b></a><br><i>Vercel + Next.js 部署</i></td>
-    <td width="40%"><a href="https://github.com/lushanjun1127/nav"><b>Nav书签平台</b></a><br><i>Cloudflare Workers 构建</i></td>
-    <td width="40%"><a href="https://github.com/lushanjun1127/csvtojson"><b>CSV转JSON</b></a><br><i>实用数据转换工具</i></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/status-active-green?style=for-the-badge" /></td>
-    <td><img src="https://img.shields.io/badge/status-active-green?style=for-the-badge" /></td>
-    <td><img src="https://img.shields.io/badge/status-active-green?style=for-the-badge" /></td>
-  </tr>
-</table>
-
-</div>
+> <p align="center"><strong>💭 "总有一天我会再见到你 · 创造永不落幕"</strong></p>
+> <p align="center"><em>—— 《千与千寻》</em></p>
 
 ---
 
-## 📊 数据统计
-
-```plaintext
-         _      .           ──┐
-   ╱╲  /|\ ___.───            │
-  /   \/  \|     \             │
-       __||_     |             │
-     /_____| \____│    ████    │
-          (⌒)   ╲  │  ██████   │
-           |      ╲│  ███████  │
-           |       │  ████████ │
-        ┌──┘      ┌┘  ███████  │
-    ───────────────────────────┤
-    98% Commit · 2% Pull Request
-         活跃于近一年  
-
-         🌟 个性签名
-"总有一天我会再见到你 · 创造永不落幕"
-—— 《千与千寻》
-"姻缘庙前不屑一顾，财神殿前长跪不起"
 <div align="center">
 
-关于 me | LinkedIn
+Made with ❤️ by **Shanjun Lu** | © 2026
 
 </div>
-```
