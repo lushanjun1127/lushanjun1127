@@ -1,18 +1,31 @@
-# 🌟 陆山君 | Shanjun Lu  
+# 🌟 陆山君 | Shanjun Lu
+
 <div align="center">
 
-🔗 [lushanjun1127](https://github.com/lushanjun1127) • 📍 Florida, USA • 🎓 Santa Fe College CS Student • 🚀 Full-stack Developer
+![GitHub](https://img.shields.io/badge/GitHub-lushanjun1127-181717?style=flat-square&logo=github)
+![Location](https://img.shields.io/badge/Location-Florida, USA-orange.svg?style=flat-square)
 
----
+🎓 Santa Fe College CS Student ‖ ⚛️ Full-stack Developer  
+📬 lushanjun@proton.me
+
+</div>
+
+<!-- ================== PROFILE STATS ================== -->
+<br>
+
+<!-- 贡献图 -->
+![Shanjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lushanjun1127&show_icons=true&theme=onedark&hide_border=true)
+
+<br>
 
 ## ⚡ 技能矩阵
 
-<table width="100%" border="0">
+<table width="100%">
 <tr>
 <td width="33%">
 
 ### ⚛️ 前端开发
-`React` `Next.js` `TypeScript` `Tailwind CSS` `JavaScript`
+`React` `Next.js` `TypeScript` `Tailwind CSS`
 
 </td>
 <td width="33%">
@@ -30,7 +43,8 @@
 </tr>
 </table>
 
----
+<!-- ================== PINNED REPOS ================== -->
+<br>
 
 ## 🏰 精选项目
 
@@ -40,58 +54,41 @@
 
 **🔗 github.io**  
 个人主页与导航平台  
-<a href="https://github.com/lushanjun1127.github.io" target="_blank">查看项目 →</a>
-
-</td>
-<td width="33%">
-
-**🔗 csvtojson**  
-CSV转JSON转换工具  
-<a href="https://github.com/lushanjun1127/csvtojson" target="_blank">查看项目 →</a>
+<a href="https://github.com/lushanjun1127.github.io" target="_blank">查看 →</a>
 
 </td>
 <td width="33%">
 
 **🔗 nav**  
 Cloudflare书签管理平台  
-<a href="https://github.com/lushanjun1127/nav" target="_blank">查看项目 →</a>
+<a href="https://github.com/lushanjun1127/nav" target="_blank">查看 →</a>
 
 </td>
-</tr>
-<tr>
-<td colspan="3" style="text-align:center;">
+<td width="33%">
 
-**🔗 planet**  
-JavaScript构建的Web应用  
-<a href="https://github.com/lushanjun1127/planet" target="_blank">查看项目 →</a>
+**🔗 csvtojson**  
+CSV转JSON转换工具  
+<a href="https://github.com/lushanjun1127/csvtojson" target="_blank">查看 →</a>
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-## 📊 活跃统计
+## 🌐 联系 & 社交
 
-| 维度 | 数据 |
-|------|------|
-| 📅 年度贡献 | ████░░░░░░░░░░░░░░░░░ 50次 |
-| 📝 Commit比例 | 98% Commits \| 2% PRs |
-| 🏠 活动范围 | lushanjun/* 主要仓库区域 |
+<table align="center">
+<tr>
+<td>🏠 <a href="https://lushanjun.vercel.app/" target="_blank">个人网站</a></td>
+<td>💬 <a href="https://about.me/lushanjun" target="_blank">about.me</a></td>
+<td>📬 <a href="mailto:lushanjun@proton.me">Email</a></td>
+</tr>
+</table>
 
+<br>
 <div align="center">
 
-**联系方式** 📬  
-[🏠 个人网站](https://lushanjun.vercel.app/) • [💬 about.me](https://about.me/lushanjun) • [🔗 GitHub镜像](https://lushanjun.ct.ws/)
-
-</div>
-
----
-
-<div align="center">
-
-🎯 **座右铭**: "在代码的世界里，每一个细节都值得雕琢；在创新的道路上，每一次尝试都通向无限可能"
-
-Made with ❤️ by Shanjun Lu • Last Updated: 2026年4月
+Made with ❤️ by Shanjun Lu • Last Updated: April 2026
 
 </div>
