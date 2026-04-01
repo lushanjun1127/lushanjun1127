@@ -23,13 +23,13 @@
 未来可能会去学习 Laravel、Django 等后端框架，充实自己的能力。我对网页前端设计、Python 脚本、AI 与 AIGC 等领域有些兴趣。		
 虽然技术仍然不足以称为专家，但如果你也对这些领域有兴趣，或许我们可以一起交流？		
 		
-- 🔭 我正在制作 [**CFBot**](https://github.com/510208/cfbot/) 与 [我的个人网站](https://510208.github.io/)		
-- 🌱 我正在学习 **前端技术**		
+- 🔭 我正在制作 [**通过Notion搭建导航站**](https://github.com/lushanjun/nav) 与 [我的个人网站](https://lushanjun.ct.ws/)		
+- 🌱 我正在学习 **全栈开发**		
 - 🤝 既然你都录过我的 GitHub 了，可以帮我按个免费的 **Follow** 吗		
-- 👨‍💻 所有我的项目你可以在 [GitHub 上](https://github.com/510208/510208/tree/main) 找到		
+- 👨‍💻 所有我的项目你可以在 [GitHub 上](https://github.com/lushanjun1127) 找到		
 - 📝 我常常在 [陆山君の小窝](https://lushanjun.ct.ws) 写文章		
-- 📫 你可以使用 Discord 搜寻 `@陆山君` 来联络我		
-- ⚡ 有趣的事实是，我在网络上就是个可爱ㄉ女孩纸		
+- 📫 你可以使用 Discord 搜寻 `@lushanjun_1127` 来联络我		
+- ⚡ 有趣的事实是，我在网络上就是个可爱の女孩纸		
 - 🚨 我、不、是、男、娘		
 		
 ## Skills		
