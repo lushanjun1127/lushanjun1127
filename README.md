@@ -72,7 +72,7 @@
 </tr>		
 <tr>		
 	<td>	
-		<img src="https://streak-stats.demolab.com?user=510208&theme=transparent&hide_border=true&border_radius=10&locale=zh_Hant&date_format=%5BY.%5Dn.j&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" align="center" style="width: 100%" alt="GitHub Streak" />
+		<img src="https://streak-stats.demolab.com?user=lushanjun1127&theme=transparent&hide_border=true&border_radius=10&locale=zh_Hant&date_format=%5BY.%5Dn.j&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" align="center" style="width: 100%" alt="GitHub Streak" />
 	</td>	
 	<td>	
 		<center>好像不知道能放啥awa</center>
