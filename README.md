@@ -3,8 +3,6 @@
 
 🔗 [lushanjun1127](https://github.com/lushanjun1127) • 📍 Florida, USA • 🎓 Santa Fe College CS Student • 🚀 Full-stack Developer
 
-> 💫 **"总有一天我会再见到你 · 创造永不落幕"** —— 《千与千寻》
-
 ---
 
 ## ⚡ 技能矩阵
