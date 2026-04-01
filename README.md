@@ -1,99 +1,51 @@
-# 🌟 陆山君 | Shanjun Lu  
+# 🌟 陆山君 | Shanjun Lu
+
 <div align="center">
 
-🔗 [lushanjun1127](https://github.com/lushanjun1127) • 📍 Florida, USA • 🎓 Santa Fe College CS Student • 🚀 Full-stack Developer
+![GitHub](https://img.shields.io/badge/GitHub-lushanjun1127-181717?style=flat-square&logo=github)
+![Location](https://img.shields.io/badge/Location-Florida, USA-orange.svg?style=flat-square)
+[![Email](https://img.shields.io/badge/Email-lushanjun%40proton.me-blue.svg?style=flat-square)](mailto:lushanjun@proton.me)
 
-> 💫 **"总有一天我会再见到你 · 创造永不落幕"** —— 《千与千寻》
+🎓 Santa Fe College CS Student ‖ ⚛️ Full-stack Developer  
+📬 lushanjun@proton.me · 🏠 [Personal Site](https://lushanjun.vercel.app/)
 
----
+</div>
 
-## ⚡ 技能矩阵
+<!-- ================== PROFILE STATS ================== -->
+<br>
 
-<table width="100%" border="0">
-<tr>
-<td width="33%">
+![Shanjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lushanjun1127&show_icons=true&theme=onedark&hide_border=true)
+<br>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lushanjun1127&layout=compact&theme=onedark&hide_border=true)](#)
 
-### ⚛️ 前端开发
-`React` `Next.js` `TypeScript` `Tailwind CSS` `JavaScript`
+<br>
 
-</td>
-<td width="33%">
-
-### 🚀 后端开发
-`Node.js` `Express` `MongoDB` `PostgreSQL` `Python`
-
-</td>
-<td width="33%">
-
-### 🔧 工具部署
-`Git` `Docker` `Vercel` `Cloudflare Workers` `VS Code`
-
-</td>
-</tr>
-</table>
-
----
-
-## 🏰 精选项目
+## 🏰 精选项目 (Pin 6个)
 
 <table width="100%">
 <tr>
-<td width="33%">
-
-**🔗 github.io**  
-个人主页与导航平台  
-<a href="https://github.com/lushanjun1127.github.io" target="_blank">查看项目 →</a>
-
-</td>
-<td width="33%">
-
-**🔗 csvtojson**  
-CSV转JSON转换工具  
-<a href="https://github.com/lushanjun1127/csvtojson" target="_blank">查看项目 →</a>
-
-</td>
-<td width="33%">
-
-**🔗 nav**  
-Cloudflare书签管理平台  
-<a href="https://github.com/lushanjun1127/nav" target="_blank">查看项目 →</a>
-
-</td>
+<td width="33%">**🔗 github.io**<br><a href="https://github.com/lushanjun1127.github.io" target="_blank">查看 →</a></td>
+<td width="33%">**🔗 nav**<br><a href="https://github.com/lushanjun1127/nav" target="_blank">查看 →</a></td>
+<td width="33%">**🔗 csvtojson**<br><a href="https://github.com/lushanjun1127/csvtojson" target="_blank">查看 →</a></td>
 </tr>
 <tr>
-<td colspan="3" style="text-align:center;">
-
-**🔗 planet**  
-JavaScript构建的Web应用  
-<a href="https://github.com/lushanjun1127/planet" target="_blank">查看项目 →</a>
-
-</td>
+<td width="33%">**🔗 planet**<br><a href="https://github.com/lushanjun1127/planet" target="_blank">查看 →</a></td>
+<td width="33%">**🔗 lushanjun1127**<br><a href="https://github.com/lushanjun1127" target="_blank">查看 →</a></td>
+<td width="33%">**🔗 Minecraft-Server**<br><a href="https://github.com/lushanjun1127/Minecraft-Server" target="_blank">查看 →</a></td>
 </tr>
 </table>
 
----
+<br>
 
-## 📊 活跃统计
+## 🌐 更多连接
 
-| 维度 | 数据 |
-|------|------|
-| 📅 年度贡献 | ████░░░░░░░░░░░░░░░░░ 50次 |
-| 📝 Commit比例 | 98% Commits \| 2% PRs |
-| 🏠 活动范围 | lushanjun/* 主要仓库区域 |
+<table align="center">
+<tr>
+<td><b>🏠 个人网站</b><br><a href="https://lushanjun.vercel.app/" target="_blank">访问</a></td>
+<td><b>💬 about.me</b><br><a href="https://about.me/lushanjun" target="_blank">访问</a></td>
+<td><b>📧 Email</b><br><a href="mailto:lushanjun@proton.me">联系</a></td>
+</tr>
+</table>
 
-<div align="center">
-
-**联系方式** 📬  
-[🏠 个人网站](https://lushanjun.vercel.app/) • [💬 about.me](https://about.me/lushanjun) • [🔗 GitHub镜像](https://lushanjun.ct.ws/)
-
-</div>
-
----
-
-<div align="center">
-
-🎯 **座右铭**: "在代码的世界里，每一个细节都值得雕琢；在创新的道路上，每一次尝试都通向无限可能"
-
-Made with ❤️ by Shanjun Lu • Last Updated: 2026年4月
-
-</div>
+<br>
+<div align="center">Made with ❤️ by Shanjun Lu • Last Updated: April 2026</div>
