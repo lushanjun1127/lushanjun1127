@@ -1,99 +1,95 @@
-# 🌟 陆山君 | Shanjun Lu  
-<div align="center">
+<center><img width="900" alt="mybanner" src="https://510208.github.io/510208/Header.png" style="border-radius: 5px;"></center>
 
-🔗 [lushanjun1127](https://github.com/lushanjun1127) • 📍 Florida, USA • 🎓 Santa Fe College CS Student • 🚀 Full-stack Developer
+<br>
 
-> 💫 **"总有一天我会再见到你 · 创造永不落幕"** —— 《千与千寻》
+<div><center><a href="https://github.com/510208" target="_blank">
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px; margin-left: 0px;" />
+</a><a href="https://x.com/510208" target="_blank">
+<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=x&logoColor=white" alt=twitter style="margin-bottom: 5px; margin-left: 0px;" />
+</a><a href="https://www.facebook.com/go510208" target="_blank">
+<img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt=facebook style="margin-bottom: 5px; margin-left: 0px;" />
+</a><a href="https://instagram.com/510208" target="_blank"><img src="https://img.shields.io/badge/instagram-%23FF0069.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px; margin-left: 0px;" />
+</a><a href="https://discordapp.com/users/959977374471028779" target="_blank"><img src="https://img.shields.io/badge/discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" alt=discord style="margin-bottom: 5px; margin-left: 0px;" />
+</a><a href="https://bento.me/510208" target="_blank"><img src="https://img.shields.io/badge/Bento.me-%23ff8686.svg?&style=for-the-badge&logo=bento&logoColor=white" alt=discord style="margin-bottom: 5px; margin-left: 0px;" />
+</a><a href="https://github.com/510208/510208/blob/main/README_EN.md" target="_blank"><img src="https://img.shields.io/badge/English-%23000000.svg?&style=for-the-badge&logo=googletranslate&logoColor=white" alt=instagram style="margin-bottom: 5px; margin-left: 0px;" />
+</a></center></div>
 
----
+<br />
 
-## ⚡ 技能矩阵
+<h1><center>嗨！我是 SamHacker</center></h1>
 
-<table width="100%" border="0">
+嗨！我是 SamHacker，一個熱愛 Coding 的高中生。現年（2025 年）16 歲，善於運用 TypeScript、Python 等語言。最近在學習 Next.js、Vite、React、GSAP 等前端框架，也計畫要涉獵 Svelte、Vue 等框架。前端可能還算可以，但做後端就真的完全不行。
+
+未來可能會去學習 Laravel、Django 等後端框架，充實自己的能力。我對網頁前端設計、Python 腳本、AI 與 AIGC 等領域有些興趣。
+雖然技術仍然不足以稱為專家，但如果你也對這些領域有興趣，或許我們可以一起交流？
+
+- 🔭 我正在製作 [**CFBot**](https://github.com/510208/cfbot/) 與 [我的個人網站](https://510208.github.io/)
+- 🌱 我正在學習 **前端技術**
+- 🤝 既然你都錄過我的 GitHub 了，可以幫我按個免費的 **Follow** 嗎
+- 👨‍💻 所有我的專案你可以在 [GitHub 上](https://github.com/510208/510208/tree/main) 找到
+- 📝 我常常在 [SamHacker Blog](https://samhacker.xyz) 寫文章
+- 📫 你可以使用 Discord 搜尋 `@samhacker` 來聯絡我
+- ⚡ 有趣的事實是，我在網路上就是個可愛ㄉ女孩紙
+- 🚨 我、不、是、男、娘
+
+## Skills
+
+<div>  
+	<a href="https://react.dev/?uwu=true" target="_blank"><img style="margin: 10px" src="https://510208.github.io/510208/logos/React.png" alt="React" height="100" /></a>
+	<a href="https://www.figma.com/@samhacker" target="_blank"><img style="margin: 10px" src="https://510208.github.io/510208/logos/Figma.png" alt="Figma" height="100" /></a>
+    <img style="margin: 10px" src="https://510208.github.io/510208/logos/CSS完全に理解した.png" alt="CSS" height="100" />
+    <img style="margin: 10px" src="https://510208.github.io/510208/logos/HTML.png" alt="HTML" height="100" />
+    <a href="https://www.nextjs.org" target="_blank"><img style="margin: 10px" src="https://510208.github.io/510208/logos/Nextjs.png" alt="Next.js" height="100" /></a>
+    <a href="https://www.nodejs.org" target="_blank"><img style="margin: 10px" src="https://510208.github.io/510208/logos/Node.js.png" alt="Node.js" height="100" /></a>
+    <a href="https://www.python.org" target="_blank"><img style="margin: 10px" src="https://510208.github.io/510208/logos/Python.png" alt="Python" height="100" /></a>
+    <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://510208.github.io/510208/logos/TaliwindCSS.png" alt="TailwindCSS" height="100" /></a>
+    <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://510208.github.io/510208/logos/TypeScript.png" alt="TypeScript" height="100" /></a>
+    <a href="https://www.vite.dev" target="_blank"><img style="margin: 10px" src="https://510208.github.io/510208/logos/Vite.png" alt="Vite" height="100" /></a>
+    <a href="https://github.com/510208"><img style="margin: 10px" src="https://510208.github.io/510208/logos/GitHub.png" alt="Vite" height="100" /></a>
+	<a href="https://archlinux.org/" target="_blank"><img style="margin: 10px" src="https://510208.github.io/510208/logos/ArchLinux.png" alt="Arch Linux" height="100" /></a>
+	<a href="https://www.cloudflare.com/" target="_blank"><img style="margin: 10px" src="https://510208.github.io/510208/logos/CloudFlare.png" alt="CloudFlare" height="100" /></a>
+    <a href="https://discordapp.com/users/959977374471028779" target="_blank"><img style="margin: 10px" src="https://510208.github.io/510208/logos/Discord.png" alt="Discord" height="100" /></a>
+    <a href="https://ubuntu.com/" target="_blank"><img style="margin: 10px" src="https://510208.github.io/510208/logos/Ubuntu.png" alt="Ubuntu" height="100" /></a>
+    <a href="https://www.microsoft.com/zh-tw/windows/" target="_blank"><img style="margin: 10px" src="https://510208.github.io/510208/logos/Windows.png" alt="Windows" height="100" /></a>
+</div>
+
+<br/>
+
+![Google Gemini Educator](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/168602163)
+
+## GitHub Stats
+
+此處狀態圖由 [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)、[DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)製作
+
+<table style="width: 100%;">
 <tr>
-<td width="33%">
-
-### ⚛️ 前端开发
-`React` `Next.js` `TypeScript` `Tailwind CSS` `JavaScript`
-
-</td>
-<td width="33%">
-
-### 🚀 后端开发
-`Node.js` `Express` `MongoDB` `PostgreSQL` `Python`
-
-</td>
-<td width="33%">
-
-### 🔧 工具部署
-`Git` `Docker` `Vercel` `Cloudflare Workers` `VS Code`
-
-</td>
+	<td>
+		<img src="https://github-readme-stats.vercel.app/api?username=510208&show_icons=true&count_private=true&theme=transparent&hide_border=true&locale=zh-tw" align="center" style="width: 100%" alt="Code Status" />
+	</td>
+	<td>
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=510208&show_icons=true&theme=transparent&hide_border=true&layout=compact&hide=glsl,language2&locale=zh-tw" align="center" style="width: 100%" alt="Top Languages" />
+	</td>
+</tr>
+<tr>
+	<td>
+		<img src="https://streak-stats.demolab.com?user=510208&theme=transparent&hide_border=true&border_radius=10&locale=zh_Hant&date_format=%5BY.%5Dn.j&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" align="center" style="width: 100%" alt="GitHub Streak" />
+	</td>
+	<td>
+		<center>好像不知道能放啥awa</center>
+	</td>
 </tr>
 </table>
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=510208&theme=github-compact&custom_title=SamHacker%20%E5%9C%A8%20GitHub%20%E4%B8%8A%E7%9A%84%E6%B4%BB%E5%8B%95%E7%8B%80%E6%85%8B&hide_border=true" align="center" style="width: 100%" alt="Activity Graph" />
 
-## 🏰 精选项目
+## 寫扣的時間
 
-<table width="100%">
-<tr>
-<td width="33%">
+<!--START_SECTION:waka-->
 
-**🔗 github.io**  
-个人主页与导航平台  
-<a href="https://github.com/lushanjun1127.github.io" target="_blank">查看项目 →</a>
+```txt
+Other        12 hrs 47 mins        ███████████████████████░░   92.60 %
+Python       40 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
+TypeScript   20 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+```
 
-</td>
-<td width="33%">
-
-**🔗 csvtojson**  
-CSV转JSON转换工具  
-<a href="https://github.com/lushanjun1127/csvtojson" target="_blank">查看项目 →</a>
-
-</td>
-<td width="33%">
-
-**🔗 nav**  
-Cloudflare书签管理平台  
-<a href="https://github.com/lushanjun1127/nav" target="_blank">查看项目 →</a>
-
-</td>
-</tr>
-<tr>
-<td colspan="3" style="text-align:center;">
-
-**🔗 planet**  
-JavaScript构建的Web应用  
-<a href="https://github.com/lushanjun1127/planet" target="_blank">查看项目 →</a>
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 活跃统计
-
-| 维度 | 数据 |
-|------|------|
-| 📅 年度贡献 | ████░░░░░░░░░░░░░░░░░ 50次 |
-| 📝 Commit比例 | 98% Commits \| 2% PRs |
-| 🏠 活动范围 | lushanjun/* 主要仓库区域 |
-
-<div align="center">
-
-**联系方式** 📬  
-[🏠 个人网站](https://lushanjun.vercel.app/) • [💬 about.me](https://about.me/lushanjun) • [🔗 GitHub镜像](https://lushanjun.ct.ws/)
-
-</div>
-
----
-
-<div align="center">
-
-🎯 **座右铭**: "在代码的世界里，每一个细节都值得雕琢；在创新的道路上，每一次尝试都通向无限可能"
-
-Made with ❤️ by Shanjun Lu • Last Updated: 2026年4月
-
-</div>
+<!--END_SECTION:waka-->
