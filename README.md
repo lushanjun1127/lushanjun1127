@@ -1,4 +1,4 @@
-<center><img width="900" alt="mybanner" src="https://510208.github.io/510208/Header.png" style="border-radius: 5px;"></center>		
+<center><img width="900" alt="mybanner" src="https://i.pinimg.com/736x/83/02/3f/83023fa436e0c2dc0e5a971d5e1d8f10.jpg" style="border-radius: 5px;"></center>		
 		
 <br>		
 		
@@ -64,10 +64,10 @@
 <table style="width: 100%;">		
 <tr>		
 	<td>	
-		<img src="https://github-readme-stats.vercel.app/api?username=510208&show_icons=true&count_private=true&theme=transparent&hide_border=true&locale=zh-tw" align="center" style="width: 100%" alt="Code Status" />
+		<img src="https://github-readme-stats.vercel.app/api?username=lushanjun1127&show_icons=true&count_private=true&theme=transparent&hide_border=true&locale=zh-tw" align="center" style="width: 100%" alt="Code Status" />
 	</td>	
 	<td>	
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=510208&show_icons=true&theme=transparent&hide_border=true&layout=compact&hide=glsl,language2&locale=zh-tw" align="center" style="width: 100%" alt="Top Languages" />
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lushanjun1127&show_icons=true&theme=transparent&hide_border=true&layout=compact&hide=glsl,language2&locale=zh-tw" align="center" style="width: 100%" alt="Top Languages" />
 	</td>	
 </tr>		
 <tr>		
@@ -80,7 +80,7 @@
 </tr>		
 </table>		
 		
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=510208&theme=github-compact&custom_title=陆山君%20%E5%9C%A8%20GitHub%20%E4%B8%8A%E7%9A%84%E6%B4%BB%E5%8B%95%E7%8B%80%E6%85%8B&hide_border=true" align="center" style="width: 100%" alt="Activity Graph" />		
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lushanjun1127&theme=github-compact&custom_title=lushanjun1127%20%E5%9C%A8%20GitHub%20%E4%B8%8A%E7%9A%84%E6%B4%BB%E5%8B%95%E7%8B%80%E6%85%8B&hide_border=true" align="center" style="width: 100%" alt="Activity Graph" />		
 		
 ## 写扣的时间		
 		
