@@ -1,4 +1,4 @@
-<center><img width="900" alt="mybanner" src="https://i.pinimg.com/736x/83/02/3f/83023fa436e0c2dc0e5a971d5e1d8f10.jpg" style="border-radius: 5px;"></center>		
+<center><img width="900" alt="mybanner" src="https://i.pinimg.com/originals/10/93/89/109389157312ae5ae6b03a48a4e6706b.gif" style="border-radius: 5px;"></center>		
 		
 <br>		
 		
@@ -26,8 +26,7 @@
 - 🤝 既然你都录过我的 GitHub 了，可以帮我按个免费的 **Follow** 吗		
 - 👨‍💻 所有我的项目你可以在 [GitHub 上](https://github.com/lushanjun1127) 找到		
 - 📝 我常常在 [陆山君の小窝](https://lushanjun.ct.ws) 写文章		
-- 📫 你可以使用 Discord 搜寻 `@lushanjun_1127` 来联络我		
-- ⚡ 有趣的事实是，我在网络上就是个可爱の女孩纸		
+- 📫 你可以使用 Discord 搜寻 `@lushanjun_1127` 来联络我			
 - 🚨 我、不、是、男、娘		
 		
 ## Skills		
