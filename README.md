@@ -9,8 +9,7 @@
 </a><a href="https://www.facebook.com/lushanjun" target="_blank">		
 <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt=facebook style="margin-bottom: 5px; margin-left: 0px;" />		
 </a><a href="https://instagram.com/lushanjun" target="_blank"><img src="https://img.shields.io/badge/instagram-%23FF0069.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px; margin-left: 0px;" />		
-</a><a href="https://discordapp.com/lushanjun_1127" target="_blank"><img src="https://img.shields.io/badge/discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" alt=discord style="margin-bottom: 5px; margin-left: 0px;" />		
-</a><a href="https://bento.me/510208" target="_blank"><img src="https://img.shields.io/badge/Bento.me-%23ff8686.svg?&style=for-the-badge&logo=bento&logoColor=white" alt=discord style="margin-bottom: 5px; margin-left: 0px;" />				
+</a><a href="https://discordapp.com/lushanjun_1127" target="_blank"><img src="https://img.shields.io/badge/discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" alt=discord style="margin-bottom: 5px; margin-left: 0px;" />
 </a></center></div>		
 		
 <br />		
