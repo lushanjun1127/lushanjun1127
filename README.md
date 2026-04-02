@@ -66,15 +66,3 @@
 </table>		
 		
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lushanjun1127&theme=github-compact&custom_title=陆山君%20%E5%9C%A8%20GitHub%20%E4%B8%8A%E7%9A%84%E6%B4%BB%E5%8B%95%E7%8B%80%E6%85%8B&hide_border=true" align="center" style="width: 100%" alt="Activity Graph" />		
-		
-## 写扣的时间		
-		
-<!--START_SECTION:waka-->		
-		
-```txt		
-Other        12 hrs 47 mins        ███████████████████████░░   92.60 %		
-Python       40 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %		
-TypeScript   20 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %		
-```		
-		
-<!--END_SECTION:waka-->		
