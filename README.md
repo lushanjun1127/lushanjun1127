@@ -1,4 +1,4 @@
-<center><img width="900" alt="mybanner" src="https://i.pinimg.com/1200x/68/2d/39/682d39df155755cb2b8d20b339d50696.jpg" style="border-radius: 5px;"></center>
+<center><img width="900" alt="mybanner" src="https://i.pinimg.com/1200x/30/53/41/305341f2a3048ce03c6399331477d56d.jpg" style="border-radius: 5px;"></center>
 
 <br>
 
