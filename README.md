@@ -33,23 +33,12 @@ av) | [VCardPro - VCF 工具](https://github.com/lushanjun1127/VCardPro)
 
 ## 🛠️ 技能
 
-<div>
-  <a href="https://react.dev" target="_blank"><img style="margin: 8px" src="https://github.io" alt="React" height="90" /></a>
-  <a href="https://nextjs.org" target="_blank"><img style="margin: 8px" src="https://github.io" alt="Next.js" height="90" /></a>
-  <a href="https://typescriptlang.org" target="_blank"><img style="margin: 8px" src="https://github.io" alt="TypeScript" height="90" /></a>
-  <a href="https://vite.dev" target="_blank"><img style="margin: 8px" src="https://github.io" alt="Vite" height="90" /></a>
-  <a href="https://tailwindcss.com" target="_blank"><img style="margin: 8px" src="https://github.io" alt="TailwindCSS" height="90" /></a>
-  <a href="https://python.org" target="_blank"><img style="margin: 8px" src="https://github.io" alt="Python" height="90" /></a>
-  <a href="https://nodejs.org" target="_blank"><img style="margin: 8px" src="https://github.io" alt="Node.js" height="90" /></a>
-  <a href="https://mozilla.org" target="_blank"><img style="margin: 8px" src="https://github.io" alt="HTML" height="90" /></a>
-  <a href="https://mozilla.org" target="_blank"><img style="margin: 8px" src="https://github.io" alt="CSS" height="90" /></a>
-  <a href="https://figma.com" target="_blank"><img style="margin: 8px" src="https://github.io" alt="Figma" height="90" /></a>
-  <a href="https://archlinux.org" target="_blank"><img style="margin: 8px" src="https://github.io" alt="Arch Linux" height="90" /></a>
-  <a href="https://cloudflare.com" target="_blank"><img style="margin: 8px" src="https://github.io" alt="CloudFlare" height="90" /></a>
-  <a href="https://discord.com" target="_blank"><img style="margin: 8px" src="https://github.io" alt="Discord" height="90" /></a>
+<div> <a href="https://react.dev/" target="_blank"><img style="margin: 8px" src="https://510208.github.io/510208/logos/React.png" alt="React" height="90" /></a> a href="https://nextjs.org/" target="_blank"><img style="margin: 8px" src="https://510208.github.io/510208/logos/Nextjs.png" alt="Next.js" height="90" /></a> <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 8px" src="https://510208.github.io/510208/logos/TypeScript.png" alt="TypeScript" height="90" /></a> a href="https://www.vite.dev/" target="_blank"><img style="margin: 8px" src="https://510208.github.io/510208/logos/Vite.png" alt="Vite" height="90" /></a> a href="https://tailwindcss.com/" target="_blank"><img style="margin: 8px" src="https://510208.github.io/510208/logos/TaliwindCSS.png" alt="TailwindCSS" height="90" /></a> a href="https://www.python.org/" target="_blank"><img style="margin: 8px" src="https://510208.github.io/510208/logos/Python.png" alt="Python" height="90" /></a> <a href="https://nodejs.org/" target="_blank"><img style="margin: 8px" src="https://510208.github.io/510208/logos/Node.js.png" alt="Node.js" height="90" /></a> img style="margin: 8px" src="https://510208.github.io/510208/logos/HTML.png" alt="HTML" height="90" /> <img style="margin: 8px" src="https://510208.github.io/510208/logos/CSS完全に理解した.png" alt="CSS" height="90" /> <a href="https://www.figma.com/" target="_blank"><img style="margin: 8px" src="https://510208.github.io/510208/logos/Figma.png" alt="Figma" height="90" /></a> <a href="https://archlinux.org/" target="_blank"><img style="margin: 8px" src="https://510208.github.io/510208/logos/ArchLinux.png" alt="Arch Linux" height="90" /></a> <a href="https://www.cloudflare.com/" target="_blank"><img style="margin: 8px" src="https://510208.github.io/510208/logos/CloudFlare.png" alt="CloudFlare" height="90" /></a> <a href="https://discord.com/" target="_blank"><img style="margin: 8px" src="https://510208.github.io/510208/logos/Discord.png" alt="Discord" height="90" /></a> 
+
 </div>
 
 <br/>
+
 
 ## 📊 GitHub Stats
 
